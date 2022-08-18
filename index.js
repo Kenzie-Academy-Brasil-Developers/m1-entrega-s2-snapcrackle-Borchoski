@@ -16,5 +16,5 @@ function snapCrackle(maxValue){
     let lista2 = lista.join(', ')
     return lista2
 }
-//console.log(snapCrackle(10))
+console.log(snapCrackle(12))
 
